@@ -1,0 +1,12 @@
+openssh-server
+ssh
+curl
+gcc
+make
+zlib1g-dev
+libncurses5-dev
+libncursesw5-dev
+g++
+wget
+python
+sudo
